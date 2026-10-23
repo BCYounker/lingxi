@@ -42,10 +42,10 @@
 <table>
   <tr>
     <td width="75%" align="center" valign="top">
-      <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ld7bQxLkapOBQ/img/1cb4a961-306e-4e6c-a176-678b0f3b30d4.png" alt="灵析对话主界面" width="100%" />
+      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%871.png" alt="灵析对话主界面" width="100%" />
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ld7bQxLkapOBQ/img/d59b1819-706c-453e-9249-e3d64ba7ac5a.png?x-oss-process=image/crop,x_1248,y_0,w_550,h_928/ignore-error,1" alt="灵析任务智能规划侧边栏" width="100%" />
+      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%872.png" alt="灵析任务智能规划侧边栏" width="100%" />
     </td>
   </tr>
 </table>
@@ -53,10 +53,10 @@
 <table>
   <tr>
     <td width="60%" align="center" valign="top">
-      <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ld7bQxLkapOBQ/img/04cef5c0-95ab-43f8-9d09-839a05acc9d4.png" alt="多智能体调参分析" width="100%" />
+      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%873.png" alt="多智能体调参分析" width="100%" />
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/Mp7ld7bQxLkapOBQ/img/516ea468-37bb-4aac-8e20-7a2398830a38.png" alt="调参空间阶段变化" width="100%" />
+      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%874.png" alt="调参空间阶段变化" width="100%" />
     </td>
   </tr>
 </table>
