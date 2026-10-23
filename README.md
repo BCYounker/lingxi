@@ -42,10 +42,10 @@
 <table>
   <tr>
     <td width="75%" align="center" valign="top">
-      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%871.png" alt="灵析对话主界面" width="100%" />
+      <img src="./media/fig1.png" alt="灵析对话主界面" width="100%" />
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%872.png" alt="灵析任务智能规划侧边栏" width="100%" />
+      <img src="./media/fig2.png" alt="灵析任务智能规划侧边栏" width="100%" />
     </td>
   </tr>
 </table>
@@ -53,10 +53,10 @@
 <table>
   <tr>
     <td width="60%" align="center" valign="top">
-      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%873.png" alt="多智能体调参分析" width="100%" />
+      <img src="./media/fig3.png" alt="多智能体调参分析" width="100%" />
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/%E5%9B%BE%E7%89%874.png" alt="调参空间阶段变化" width="100%" />
+      <img src="/media/fig4.png" alt="调参空间阶段变化" width="100%" />
     </td>
   </tr>
 </table>
